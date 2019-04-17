@@ -1,0 +1,16 @@
+defining key vlues
+#define LOWER 0
+#define UPPER 300
+#define STEP 20
+
+c = getchar()
+variable c contains the next character of input
+
+putchar(c)
+prints a character each time it is called
+
+//EOF
+
+// Ctrl + D
+
+// CHAT APP
